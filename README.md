@@ -4,6 +4,6 @@ I'm going to work through the Tour of Heroes sample to get a better grasp of Ang
 
 The tutorial is located here: <https://angular.io/tutorial> 
 
-To launch the application: `ng serve --open`
+To launch the application: `ng serve --open`  
 *To stop the application hit `ctrl + c` in the terminal window you started the application with*
 
